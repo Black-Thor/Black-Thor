@@ -1,6 +1,6 @@
 # Bonjour !  👋
 
-Enchanté je m'appelle Stéphane, développer full stack , prochainement DevOps😋
+Enchanté, je m'appelle Stéphane, développer Full stack , prochainement DevOps 😋
 
 ## 👾 Pour le web je travaille avec ...
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,6 @@ Enchanté je m'appelle Stéphane, développer full stack , prochainement DevOps�
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🌎 Let's connect! 
-Envoyer moi un message au besoin  💬 
 ![](https://img.shields.io/website-up-down-green-red/http/https://stephaneduboze.web-edu.fr/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/zhenniqian/) 
