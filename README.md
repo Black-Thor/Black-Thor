@@ -1,6 +1,6 @@
 # Bonjour !  👋
 
-Je suis Stéphane D. , développer full stack , future DevOps😋
+Enchanté je m'appelle Stéphane, développer full stack , prochainement DevOps😋
 
 ## 👾 Pour le web je travaille avec ...
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,12 +26,10 @@ Je suis Stéphane D. , développer full stack , future DevOps😋
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-## 🔗 Visitez mon site web 
+## 🌎 Let's connect! 
+Envoyer moi un message au besoin  💬 
 ![](https://img.shields.io/website-up-down-green-red/http/https://stephaneduboze.web-edu.fr/)
 
-## 🌎Envoyer moi un message au besoin !
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/zhenniqian/) 
-</br>
-
 
 ![Thr](https://user-images.githubusercontent.com/66829997/123549808-e09fb400-d76a-11eb-99c7-0df54b364045.png)
