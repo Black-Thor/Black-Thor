@@ -5,21 +5,14 @@ Je suis Stéphane D. , développer full stack , prochainement DevOps😋
 ## 👾 Pour le web je travaille avec ...
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+</br>
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</br>
 ![](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Jasmine-informational?style=flat&logo=Jasmine&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/figma-informational?style=flat&logo=figma&logoColor=ColorName&color=black)
-<br/>
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=ColorName&color=black)
 
 
