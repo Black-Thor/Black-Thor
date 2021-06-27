@@ -26,13 +26,12 @@ Je suis Stéphane D. , développer full stack , future DevOps😋
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-
-## 📚 I'm currently reading...
-* **_Clean code : a handbook of agile software craftsmanship_** / by: Robert C. Martin <br/>
-
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/zhenniqian/) 
-## 🌎 Let's connect! 
-Envoyer moi un message au besoin  💬 
+## 🔗 Visitez mon site web 
 ![](https://img.shields.io/website-up-down-green-red/http/https://stephaneduboze.web-edu.fr/)
+
+## 🌎Envoyer moi un message au besoin !
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/zhenniqian/) 
+</br>
+
+</n>
 ![Thr](https://user-images.githubusercontent.com/66829997/123549808-e09fb400-d76a-11eb-99c7-0df54b364045.png)
