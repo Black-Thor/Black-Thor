@@ -27,7 +27,7 @@ Enchanté, je m'appelle Stéphane, développer Full stack , prochainement DevOps
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://github-readme-stats.vercel.app/api?username={Black-Thor}&theme=blue-green)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ## 🌎 Let's connect! 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/st%C3%A9phane-duboze/)](https://www.linkedin.com/in/st%C3%A9phane-duboze/) 
