@@ -24,7 +24,7 @@ Enchanté, je m'appelle Stéphane, développer Full stack , prochainement DevOps
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ## 🔮 Prochainement 
-![](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![](https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
