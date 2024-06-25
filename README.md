@@ -1,7 +1,7 @@
 # Bonjour !  👋
 
 Enchanté, je m'appelle Stéphane, Aspirant ingénieur devops 😋
-Mon curriculum ![CV](black-thor.github.io/CV/)
+Mon curriculum [black-thor.github.io/CV/](https://black-thor.github.io/CV/)
 
 ## 👾 J'ai des connaissance dans les technologies web suivante  ...
 ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
